@@ -6,13 +6,8 @@ Application of multi-threading in Java by developing a command line simulation o
 Numbers represent trains.There are two types of trains with different speeds, local and express trains. Express trains move 5 times as fast as local trains.
 
 Instructions on how to run on repl.it:
-1. Go to .replit file
-2. in between " " type in javac Runme.java 
-3. press run button to compile java classes
-4. Go back to .replit file
-5. Replace javac Runme.java with java Runme in between " "
-6. Press run button
-7.Choo choo!
+1. Press run button
+2. Choo choo!
 
 Instructions on how to run program on your computer:
 
